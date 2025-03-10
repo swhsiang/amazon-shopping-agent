@@ -1,6 +1,6 @@
 # Build an Amazon Shopping Assistant Agent
 
-Hey Wen! This project is to evaluate your approach to building autonomous agents that can navigate real-world websites and help users shop effectively. Take 2-3 days to show us how you'd tackle this challenge.
+This project is to evaluate your approach to building autonomous agents that can navigate real-world websites and help users shop effectively. Take 2-3 days to show us how you'd tackle this challenge.
 
 ## Project Overview
 
